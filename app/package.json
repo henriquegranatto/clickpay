@@ -1,0 +1,16 @@
+{
+  "name": "react-native-app",
+  "version": "0.0.0",
+  "description": "App de propagandas para ganhar dinheiro em react native",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^30.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-elements": "0.19.1",
+    "react-router-native": "^4.3.0"
+  }
+}
